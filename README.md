@@ -1,2 +1,2 @@
-# spring_boot_unit_test
+# Spring boot projects
 Pet project springboot intergrated with unit-test
